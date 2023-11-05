@@ -1,22 +1,3 @@
-# zdxlovedjx
-
-<div id="badges"> 
- <a href="https://github.com/sylvanding" target="_blank" rel="noopener noreferrer"> <img alt="author" src="https://img.shields.io/badge/author-Sylvan_Ding-success?logo=github"> </a> 
- <a href=""> <img alt="Bootstrapv5.0" src="https://img.shields.io/badge/Bootstrap-v5.0-blue?logo=Bootstrap&logoColor=white"> </a> 
- <a href="https://www.creative-tim.com" target="_blank" rel="noopener noreferrer"> <img alt="important" src="https://img.shields.io/badge/Template-Creative Tim-orange"> </a> 
- <a href=""> <img alt="license" src="https://img.shields.io/badge/license-MIT-green"> </a> 
-</div>
-
-## Introduction
-
-I made this homepage for my girlfriend, in purpose of recording some memorizable occasions. And if you want, you can copy and modify this template as the gift to your girlfriend or wife. 
-
-## Demo
-
-[Click here to review the website!](https://sylvanding.github.io/zdxlovedjx) ❤️
-
-[https://sylvanding.github.io/zdxlovedjx](https://sylvanding.github.io/zdxlovedjx)
-
 ## Features
 
 ### Duration Time
@@ -82,11 +63,3 @@ Finally, at the end of the homepage, it allows you to put photos and related sto
 ## Source
 
 This template is designed by [Creative Tim](https://www.creative-tim.com). You can find more information in [Soft UI Design System Pro](https://themes.getbootstrap.com/product/soft-ui-design-system-pro/)
-
-## My CSDN
-
-❤️ Here is my CSDN blog! [https://blog.csdn.net/IYXUAN](https://blog.csdn.net/IYXUAN)
-
----
-
-Wish you and your loved one happiness!
